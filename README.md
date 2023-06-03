@@ -1,4 +1,4 @@
-# Sistema de Monitoramento de Condições Ambientais
+# Ivenbox
 
 Este projeto é um sistema embarcado utilizando um ESP32 para monitorar a temperatura e umidade dentro de um recipiente hermético que abriga alimentos. Se a temperatura exceder um valor definido, uma ventoinha de 12V é ativada. Além disso, o sistema monitora se o recipiente está cheio usando um sensor infravermelho de obstáculo. Todas as informações são exibidas para o usuário através de um display LCD 16x2.
 
@@ -34,8 +34,4 @@ Se você tiver qualquer problema ou sugestão, por favor, abra uma issue [aqui](
 
 ## Autores e Agradecimentos
 
-Agradeça às pessoas que contribuíram para o projeto.
-
----
-
-Este README é um bom ponto de partida, mas sinta-se à vontade para personalizá-lo de acordo com suas necessidades. Você pode incluir capturas de tela do seu projeto, informações adicionais sobre a configuração ou o uso, etc. Lembre-se de que um bom README é fundamental para engajar outras pessoas com o seu projeto, seja elas colaboradores potenciais ou usuários.
+Agradecemos os Srs. [Roberto dos Santos](https://www.linkedin.com/in/vin%C3%ADcius-roberto-dos-santos-03a84619a/), [Julio Cezar de Alvarenga Pires](https://www.linkedin.com/in/j\%C3\%BAlio-pires-materiais-soldagem/), Thiago Wendel Sousa Vieira, Breno Luis de Oliveira Carvalho e toda equipe do [CIT SENAI](https://www7.fiemg.com.br/cit) pela colaboração no projeto.
